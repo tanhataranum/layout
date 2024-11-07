@@ -1,0 +1,136 @@
+.header{
+  width: 255;
+  height: 100px;
+  background-color: rgb(180, 224, 245);
+}
+.header h1 {
+  text-align: center;
+}
+.text p{
+  font-size:17px ;
+  font-weight: 700;
+  color: black  ;
+  background-color: rgb(156, 238, 181);
+  
+}
+
+.container {
+
+}
+.mw { 
+float: left;
+width: 50%;
+height: 200px;
+background-color: lightskyblue;
+}
+.mw h2{
+  text-align: center;
+}
+.mw P{
+  padding: 30px 1.5% 45px;
+    margin-right: 34px;
+  text-align: center;
+} 
+.Vinson{
+  float: right;
+  width: 50%;
+  height: 200px;
+  background-color: lightblue;
+}
+.Vinson h2{
+  text-align: center;
+}
+.Vinson P{
+  padding: 30px 1.5% 45px;
+    margin-right: 34px;
+  text-align: center;
+}
+
+.me { 
+  float: left;
+  width: 35%;
+  height: 220px;
+  background-color: lightseagreen;
+  }
+  .me h2{
+    text-align: center;
+  }
+  .me P{
+    padding: 30px 1.5% 45px;
+      margin-right: 35px;
+    text-align: center;
+  } 
+
+
+  .mk { 
+    float: left;
+    width: 30%;
+    height: 220px;
+    background-color: rgb(60, 194, 194);
+    }
+    .mk h2{
+      text-align: center;
+    }
+    .mk P{
+      padding: 30px 1.5% 45px;
+        margin-right: 34px;
+      text-align: center;
+    } 
+
+    .Denali { 
+      float: right;
+      width: 35%;
+      height: 220px;
+      background-color: rgb(8, 158, 138);
+      }
+      .Denali h2{
+        text-align: center;
+      }
+      .Denali P{
+        padding: 30px 1.5% 45px;
+          margin-right: 34px;
+        text-align: center;
+      } 
+
+
+      .Aconcagua { 
+        float: left;
+        width: 50%;
+        height: 200px;
+        background-color: rgb(179, 203, 224);
+        }
+        .Aconcagua h2{
+          text-align: center;
+        }
+        .Aconcagua p{
+          padding: 30px 1.5% 45px;
+            margin-right: 34px;
+          text-align: center;
+        } 
+        .mount { 
+          float: right;
+          width: 50%;
+          height: 200px;
+          background-color: rgb(144, 229, 250);
+          }
+          .mount h2{
+            text-align: center;
+          }
+          .mount p{
+            padding: 30px 1.5% 45px;
+              margin-right: 34px;
+            text-align: center;
+          }
+          
+.sidebar{
+  background-color: aquamarine;
+}
+
+.sidebar ul{
+  
+  background-color: bisque;
+}
+.sidebar ul li {
+  width: 50%;
+  height: 30px
+}
